@@ -1,0 +1,46 @@
+/* Styling pages */
+
+body{
+	background: #FFFFFF;
+	font-size: 100%;
+}
+
+header{
+	background: #00CC00;
+	text-align: center;
+}
+
+h1{
+	color: #FFFFFF;
+	text-align: center;
+}
+
+nav{
+	font-variant: small-caps;
+	font-family: Arial, "Verdana";
+	font-weight: italic;
+	font-size: 125%;
+}
+
+a {
+	color: #0000FF;
+	font-weight: bold;
+	background: #FFFF00;
+}
+
+section{
+	background: #C0C0C0;
+}
+
+h2{
+	color: white;
+	background: black;
+	font-weight: bold;
+	
+}
+
+img{
+	display: none;
+}
+
+
