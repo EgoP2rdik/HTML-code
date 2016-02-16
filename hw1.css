@@ -25,9 +25,9 @@ nav{
 }
 
 a {
-	color: #0000FF;
+	color: #FFFFFF;
 	font-weight: bold;
-	background: #FFFF00;
+	/*background: #FFFF00;*/
 }
 
 section{
@@ -48,9 +48,13 @@ h2{
 
 footer{
 	background: #00CC00;
-	height:100px;
+	height:50px;
 	clear: both;
 	text-align: center;
+	color: #FFFFFF;
+	font-style: italic;
+	font-weight: bold;
+	
 }
 
 img{
