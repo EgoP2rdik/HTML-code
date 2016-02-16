@@ -3,11 +3,13 @@
 body{
 	background: #FFFFFF;
 	font-size: 100%;
+	margin:2%;
 }
 
 header{
 	background: #00CC00;
 	text-align: center;
+	padding-bottom: 15px;
 }
 
 h1{
@@ -29,18 +31,31 @@ a {
 }
 
 section{
-	background: #C0C0C0;
+	/*background: #C0C0C0;*/
+	width:25%;
+	margin-right:2%;
+	display:inline-block;
+	float:left;
 }
 
+
 h2{
-	color: white;
-	background: black;
+	color: #FFFFFF;
+	background: #00CC00;
 	font-weight: bold;
 	
+}
+
+footer{
+	background: #00CC00;
+	height:100px;
+	clear: both;
+	text-align: center;
 }
 
 img{
 	display: none;
 }
+
 
 
