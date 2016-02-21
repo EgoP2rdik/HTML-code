@@ -33,19 +33,29 @@ nav a {
 	width: 20%;
 	border: 2px solid;
 	border-radius: 10%;
-	text-decoration: initial;
+	text-decoration: none;
 	/*margin */
 	/*padding */
 }
 
 
-a {
-	color: #FFFFFF;
+a:link {
+	color: #00CC00;
 	font-weight: bold;
 	
 }
+a:hover{
+	background-color: #FFFFFF;
+	color: #00CC00;
+}
+a:focus{
+	background-color: #FFFFFF;
+	color: #00CC00;
+}
+	
 a:active{
 	background-color: #FFFFFF;
+	color: #00CC00;
 }
 
 section{
