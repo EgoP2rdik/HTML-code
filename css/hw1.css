@@ -61,19 +61,17 @@ h2{
 }
 
 img {
-	display: block; 
+	display: inline-block; 
 	height: auto;
-	margin-left: auto;
-    margin-right: auto;
+	margin: 20px 19px;
 	width: 80%;
-	border: 3px solid #00CC00;	
+	border: 3px solid #FFFFFF;	
 }
 .left {
 	background-color: #00CC00;
 	width: 27%;
 	float: left;
-	padding-top: 10px;
-	padding-bottom: 20px;
+	padding: 1px;
 	
 }
 .right{
