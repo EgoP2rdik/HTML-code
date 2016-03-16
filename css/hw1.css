@@ -1,0 +1,96 @@
+/* Styling pages */
+
+body{
+	background: #FFFFFF;
+	font-size: 100%;
+	margin:2%;
+	padding-bottom: 2%;
+}
+
+header{
+	background: #00CC00;
+	text-align: center;
+	padding-bottom: 15px;
+	background-image: url('../images/flywheel.jpg')
+}
+
+h1{
+	color: #FFFFFF;
+	text-align: center;
+}
+
+nav {
+	font-variant: small-caps;
+	font-family: Arial, "Verdana";
+	font-weight: italic;
+	font-size: 125%;
+}
+
+nav a {
+	display: inline-block;
+	margin-left:2%;
+	background-color:#00CC00;
+	width: 20%;
+	border: 2px solid;
+	border-radius: 10%;
+	text-decoration: none;
+	/*margin */
+	/*padding */
+}
+
+
+a:link {
+	color: #00CC00;
+	font-weight: bold;
+	
+}
+a:hover{
+	background-color: #FFFFFF;
+	color: #00CC00;
+}
+a:focus{
+	background-color: #FFFFFF;
+	color: #00CC00;
+}
+	
+a:active{
+	background-color: #FFFFFF;
+	color: #00CC00;
+}
+
+section{
+	width:25%;
+	margin-right:2%;
+	display:inline-block;
+	float:left;
+	
+}
+
+
+h2{
+	color: #FFFFFF;
+	background: #00CC00;
+	font-weight: bold;
+	
+	
+	
+}
+
+summary{
+	font-style:normal;
+}
+
+footer{
+	background: #00CC00;
+	height:50px;
+	clear: both;
+	text-align: center;
+	color: #FFFFFF;
+	font-style: italic;
+	font-weight: bold;
+	
+}
+img {
+	
+}
+
